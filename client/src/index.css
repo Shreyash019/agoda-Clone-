@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-custom-bg-class {
+    background-image: url(./components//assets/background.jpg);
+}
+
+.my-custom-font {
+    font-family:Verdana, cursive, sans-serif 'Courier New', Courier, Georgia, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 
+}
+
